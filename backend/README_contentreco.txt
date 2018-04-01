@@ -1,7 +1,7 @@
 ENGR298_contentreco_25movies
 
 Script to generate content-based recommendations for all users
-Input: movies.csv and ratings.csv
+Input: movies.csv, ratings.csv, number of movies, number of users
 Output: create(or replace) table content_reco in database with recommendations for all users
 
 1. Read the movies.csv file.
